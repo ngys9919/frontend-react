@@ -3,6 +3,6 @@
   publish = "dist"
 
 [[redirects]]
-  from = "https://meek-hamster-9b0a20.netlify.app/api/*"
+  from = "/api/*"
   to = "https://agile-falls-86951-06cebe637397.herokuapp.com/api/:splat"
   status = 200
